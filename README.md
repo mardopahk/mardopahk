@@ -1,2 +1,3 @@
 - 👋 Hi, I’m Mardo
 - 👀 I like to write tests (unit, integration), so that when people ask me "does it work" I can say "Yes, it works" 😄
+- 📈 What I do: deployment/build automation with scripts, development (C#, .NET, Vue.js), lead (and motivate) teams and overall try to improve any product I put my hands on.
